@@ -8,3 +8,5 @@ alert(" Bem vindo " + nome + "de " + idade + " anos," + " ao meu primeiro JavaSc
 console.log(nome); // Vai mostrar só no navegador.
 console.log(idade2);
 console.log(frase.replace("Japão", "Brasil")); // Troca as palavras
+//console.log(frase.toUpperCase());  Todas maisuculas
+//console.log(frase.toLowerCase()); todas maisuculas
