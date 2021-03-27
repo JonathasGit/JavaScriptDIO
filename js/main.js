@@ -1,3 +1,12 @@
+var lista = ["maça" , "pera", "laranja"]; // Aqui a lista
+lista.push("uva"); // INclui na lista
+//lista.pop(); tira da lista
+//console.log(lista[1]); para visualizar só um item da lista.
+//console.log(lista.length); // Quantidade de itens do item
+console.log(lista.reverse());
+console.log(lista.toString()); //Coloca em String.
+
+
 var nome = "Jonathas "; //variaveis 
 var idade = "25"
 var idade2 = "10"
