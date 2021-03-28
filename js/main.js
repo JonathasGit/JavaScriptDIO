@@ -3,8 +3,9 @@ lista.push("uva"); // INclui na lista
 //lista.pop(); tira da lista
 //console.log(lista[1]); para visualizar só um item da lista.
 //console.log(lista.length); // Quantidade de itens do item
-console.log(lista.reverse());
+console.log(lista);
 console.log(lista.toString()); //Coloca em String.
+console.log(lista.join(" | ")); // Separa pelo o que escolher em ()
 
 
 var nome = "Jonathas "; //variaveis 
