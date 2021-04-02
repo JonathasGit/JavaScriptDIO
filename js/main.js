@@ -20,3 +20,4 @@ console.log(idade2);
 console.log(frase.replace("Japão", "Brasil")); // Troca as palavras
 //console.log(frase.toUpperCase());  Todas maisuculas
 //console.log(frase.toLowerCase()); todas maisuculas
+

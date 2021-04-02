@@ -1,3 +1,4 @@
+
 function soma(n1, n2){
     return n1 + n2;
 }
@@ -26,3 +27,6 @@ console.log(validaIdade(idade));
 
 alert(soma(5,10));
 //alert(setReplace("Vai Japão","Japão","Brasil")); Troca o nome vai japao por vai brasil 
+
+
+

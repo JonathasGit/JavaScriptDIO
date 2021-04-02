@@ -30,3 +30,7 @@ if (idade >= 18){ // Se idade maior ou igual a
    alert(d.getHours());
    alert(d.getDay());
 
+
+
+
+   
