@@ -4,4 +4,19 @@ function clicou123(){ // Quando clicar no botão, vai usar essa função com o a
 //alert("Obrigado por Clicar, Aguarde enquanto o sistema carrega.");
  }
 
- //Buscar o id pelo do h3 - vai escrever 
+function redirecionar(){
+    //window.open("https://www.google.com.br"); redirecionar 
+    window.location.href = "https://www.google.com.br";
+}
+
+
+function trocar(){ // Quando passar o mouse, troca o texto. 
+    document.getElementById("mouse()").innerHTML = "Verificar se trocou o texto";
+    //alert("Trocou o texto ????????");
+
+}
+
+function  voltar(){
+   document.getElementById("mouse").innerHTML = "Voltouuuuuuuuuuuuuuuuu";
+
+}
