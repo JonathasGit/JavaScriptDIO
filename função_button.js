@@ -10,13 +10,34 @@ function redirecionar(){
 }
 
 
-function trocar(){ // Quando passar o mouse, troca o texto. 
-    document.getElementById("mouse()").innerHTML = "Verificar se trocou o texto";
+
+
+
+// Mesma variavel para linha 23 do HTML, mousemove. 
+function trocar(elemento){ // Quando passar o mouse, troca o texto. 
+      elemento.innerHTML = "Teste 2, coloquei o elemento, InnerHTML. Quando passar o mouse";
+    // Passando o elemento, como ele mesmo. 
+    //document.getElementById("mousemove").innerHTML = "Verificar se trocou o texto";
     //alert("Trocou o texto ????????");
 
 }
 
-function  voltar(){
-   document.getElementById("mouse").innerHTML = "Voltouuuuuuuuuuuuuuuuu";
+function  voltar(elemento){
+    elemento.innerHTML = "Teste 2, coloquei o elemento. Elemento fixo "; 
+   //document.getElementById("mousemove").innerHTML = "agora deu certo Cara";
 
+}
+
+function load(){
+    alert("Página carregada"); // QUando a página carregar, o body vai mostrar essa mensagem. 
+
+}
+
+
+
+//Função Change 
+
+function funcaoChange(elemento){
+    
+    console.log(elemento)
 }
