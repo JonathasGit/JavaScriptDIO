@@ -1,1 +1,0 @@
-alert("Deu tudo certo, nessa primeira aula")
