@@ -4,7 +4,7 @@ Nesse repositório será listado todos os cursos de JavaScript da Digital Innova
 
 
 <hr>
- 1 ° Curso de Programação para internet com JavaScript pela <a href="https://digitalinnovation.one/sign-in">Digital Innovation One</a>.
+ Curso de Programação para internet com JavaScript pela <a href="https://digitalinnovation.one/sign-in">Digital Innovation One</a>.
 <hr>
 Vamos aprender: 
 
