@@ -31,7 +31,7 @@ Estruturas condicionais<br>
 Funções e suas particularidades<br>
 Aprofundamento em funções<br> 
 
-Com a Professora Diana Martine <br>
+Com a Professora <a href="https://github.com/dianamartine">Diana Martine</a><br>
 
 Certificado - em andamento  <br>
 Curso - Em andamento 
